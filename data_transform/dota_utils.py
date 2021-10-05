@@ -8,7 +8,7 @@ import math
 """
     some basic functions which are useful for process DOTA data
 """
-
+#write
 wordname_15 = ['small-vehicle',
   'large-vehicle',
   'plane',
